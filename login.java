@@ -1,1 +1,4 @@
-class Login {}
+class Login {
+    void authenticate() {}
+}
+
